@@ -1,5 +1,5 @@
-API REST BACKEND CON NODE.JS Y TYPESCRIPT
-Este proyecto es una API RESTful construida con Node.js y TypeScript. Utiliza Express para la gestión de rutas, PostgreSQL como base de datos y Jest para pruebas unitarias. La documentación de la API está generada con Swagger, facilitando la exploración y prueba de los endpoints.
+#API REST BACKEND CON NODE.JS Y TYPESCRIPT
+**Este proyecto es una API RESTful construida con Node.js y TypeScript. Utiliza Express para la gestión de rutas, PostgreSQL como base de datos y Jest para pruebas unitarias. La documentación de la API está generada con Swagger, facilitando la exploración y prueba de los endpoints.
 
 TABLA DE CONTENIDOS
 TECNOLOGÍAS UTILIZADAS
